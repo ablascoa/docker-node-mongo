@@ -1,3 +1,4 @@
+# Especificamos la versión de node que estaremos usando
 FROM node:10
 
 WORKDIR /usr/src/app
